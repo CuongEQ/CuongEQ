@@ -23,10 +23,6 @@ Chào mừng bạn đến với ngôi nhà riêng của tôi nhé!
 * Python
 * HTML _(Đang học)_
 * JavaScript _(Tương lai)_
-### 🧰 IDE
-* Visual Studio Code
-* CLion
-* PyCharm
 ### 🧠 Kỹ năng bổ trợ
 * Tin học văn phòng
 * LaTeX
