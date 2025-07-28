@@ -21,7 +21,7 @@ Chào mừng bạn đến với ngôi nhà riêng của tôi nhé!
 ### 💻 Ngôn ngữ lập trình
 * C++
 * Python
-* HTML _(Đang học)_
+* HTML
 * JavaScript _(Tương lai)_
 ### 🧠 Kỹ năng bổ trợ
 * Tin học văn phòng
